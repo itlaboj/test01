@@ -6,6 +6,7 @@ public class Sample02 {
 		System.out.println("女性");
 		System.out.println(18);
 		System.out.println("東京");
+		System.out.println("東京大学");
 	}
 
 }
